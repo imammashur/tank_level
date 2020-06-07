@@ -1,0 +1,2 @@
+# Smart-Tank using Internet-of-Things
+I have made a smart moniitoring fuel using internet-of-things device such as Raspberry Pi. In this project, we design the software (in this case is website) and the hardware. So in this project, we the wiring at the device was designed by us. After that, we connect the hardware and show the data at the software to help this company for monitoring their fuel stock at the tanks.
